@@ -50,7 +50,7 @@ const Student = () => {
               </li>
             </ul>
             <p className="text-white/100 text-sm mb-4 mt-3">
-            Level up with HaloVerse—where students thrive, not just apply.
+            Level up with HireVerse—where students thrive, not just apply.
             </p>
 
             <div className="flex justify-center mt-auto">

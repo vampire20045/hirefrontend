@@ -46,7 +46,7 @@ const HRSection = () => {
               <li>Connect with top talent, not resumes.</li>
             </ul>
             <p className="text-white/100 text-sm mb-1 mt-3">
-            Unlock endless opportunities with HaloVerse!
+            Unlock endless opportunities with HireVerse!
             </p>
 
             <div className="flex justify-center mt-auto">
