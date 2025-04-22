@@ -198,7 +198,7 @@ export const Homepage = () => {
         </section>
         <footer className="bg-black text-white text-center py-6 mt-10">
           <p className="text-sm">
-            © {new Date().getFullYear()} SaneCoders. All Rights Reserved.
+            © {new Date().getFullYear()} Footprints. All Rights Reserved.
           </p>
         </footer>
       </VantaBackground>
